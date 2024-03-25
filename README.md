@@ -5,5 +5,5 @@ This project is a simple intern management system built with React. It allows yo
 
 Features
 
-    Displays interns grouped by their area of expertise (e.g., Frontend Development, Backend Development, Product Design, Web3 Development).
-    Provides information about each intern, including their name, image, area of expertise, and grade.
+    1. Displays interns grouped by their area of expertise (e.g., Frontend Development, Backend Development, Product Design, Web3 Development).
+    2. Provides information about each intern, including their name, image, area of expertise, and grade.
